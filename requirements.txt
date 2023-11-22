@@ -1,5 +1,1 @@
-#Bootstrap
-#https://getbootstrap.com/docs/5.3/components/card/
 
-# news api
-#https://newsapi.org/docs/endpoints/top-headlines
